@@ -131,7 +131,7 @@ const ProductCard = styled.div`
   }
 
   ${MEDIA_QUERY_DESKTOP} {
-    margin: 150px 20px 0 20px;
+    margin: 150px 20px 30px 20px;
   }
 `;
 
@@ -188,7 +188,7 @@ const Publisher = styled.div`
     font-size: medium;
     letter-spacing: 0.08em;
     color: rgb(107 107 107);
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 
     &::before {
     content: "出版：";
